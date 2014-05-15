@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="Style.Dp2px" parent="android:Theme.Holo.Light">
+        <item name="android:buttonStyle">@style/ButtonStyle.Dp2px</item>
+        <item name="android:actionBarTabStyle">@style/ActionBarTabViewStyle.Dp2px</item>
+    </style>
+
+</resources>

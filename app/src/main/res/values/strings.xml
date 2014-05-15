@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dp2PxCal</string>
+    <string name="title_activity_main">dp-px変換ツール</string>
+    <string name="tab_title_section1">dp → px</string>
+    <string name="tab_title_section2">px → dp</string>
+
+    <string name="calc_result_description">%1$s(%2$s) を %3$s へ単位変換しました。</string>
+    <string name="txt_btn_convert">変換</string>
+
+</resources>
