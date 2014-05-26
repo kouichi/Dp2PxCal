@@ -10,4 +10,21 @@
     <dimen name="calc_result_area_dpi_label_margin_top">10dp</dimen>
     <dimen name="calc_result_area_dpi_label_margin_right">5dp</dimen>
     <dimen name="calc_result_area_dpi_label_margin_bottom">10dp</dimen>
+
+    <dimen name="calc_result_item_tv_label_text_size">12sp</dimen>
+    <dimen name="calc_result_item_tv_value_text_size">15sp</dimen>
+    <dimen name="calc_result_item_tv_unit_text_size">15sp</dimen>
+
+    <dimen name="fragment_main_calc_result_description_text_size">15sp</dimen>
+    <dimen name="fragment_main_display_margin_top">5dp</dimen>
+    <dimen name="fragment_main_display_margin_bottom">5dp</dimen>
+    <dimen name="fragment_main_tv_display_text_size">18sp</dimen>
+    <dimen name="fragment_main_tv_display_unit_text_size">15sp</dimen>
+    <dimen name="fragment_main_btn_convert_text_size">15sp</dimen>
+
+    <dimen name="grid_item_action_tv_number_padding">8dp</dimen>
+    <dimen name="grid_item_action_tv_number_text_size">15sp</dimen>
+
+    <dimen name="grid_item_number_tv_number_padding">8dp</dimen>
+    <dimen name="grid_item_number_tv_number_text_size">15sp</dimen>
 </resources>

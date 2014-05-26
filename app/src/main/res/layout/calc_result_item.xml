@@ -15,7 +15,7 @@
         android:layout_marginBottom="@dimen/calc_result_area_dpi_label_margin_bottom"
         android:gravity="center"
         android:text="@null"
-        android:textSize="18sp"
+        android:textSize="@dimen/calc_result_item_tv_label_text_size"
         android:background="@drawable/dp2px_label_frame"
         />
     <TextView android:id="@+id/tv_value"
@@ -28,7 +28,7 @@
         android:layout_marginBottom="@dimen/calc_result_area_dpi_label_margin_bottom"
         android:gravity="right"
         android:text="@null"
-        android:textSize="21sp"
+        android:textSize="@dimen/calc_result_item_tv_value_text_size"
         />
     <TextView android:id="@+id/tv_unit"
         android:layout_width="0dip"
@@ -40,6 +40,6 @@
         android:layout_marginBottom="@dimen/calc_result_area_dpi_label_margin_bottom"
         android:gravity="center_horizontal"
         android:text="@null"
-        android:textSize="21sp"
+        android:textSize="@dimen/calc_result_item_tv_unit_text_size"
         />
 </LinearLayout>
